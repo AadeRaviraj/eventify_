@@ -1,0 +1,2 @@
+D:/Dart/Dart Projects/event_managment_2/android/app/.cxx/Debug/6i1e5c3u/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Dart/Dart Projects/event_managment_2/android/app/.cxx/Debug/6i1e5c3u/arm64-v8a/CMakeFiles/rebuild_cache.dir
